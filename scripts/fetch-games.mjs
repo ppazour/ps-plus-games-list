@@ -21,7 +21,7 @@ const ROOT_DIR = join(__dirname, "..");
 const DATA_DIR = join(ROOT_DIR, "data");
 const README_PATH = join(ROOT_DIR, "README.md");
 
-const LOCALE = process.env.PS_LOCALE ?? "en-us";
+const LOCALE = process.env.PS_LOCALE ?? "de-at";
 const BASE_URL = "https://www.playstation.com/bin/imagic/gameslist";
 
 // The categories we track. The key is used as the output filename.
