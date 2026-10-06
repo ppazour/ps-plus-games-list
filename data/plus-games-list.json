@@ -16130,7 +16130,7 @@
         "conceptId": 234709,
         "conceptUrl": "https://store.playstation.com/de-at/concept/234709",
         "device": [
-          "PS4"
+          "PS5"
         ],
         "genre": [
           "UNIQUE"
@@ -16138,9 +16138,9 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202106/0715/VFixb2toiP73l3rExKbjGeH1.png",
         "name": "Werewolf: The Apocalypse – Earthblood",
         "nameEn": "Werewolf: The Apocalypse – Earthblood",
-        "productId": "EP4008-CUSA16782_00-WTASIEE000000000",
+        "productId": "EP4008-PPSA02113_00-WTASIEE000000000",
         "releaseDate": "2021-02-04T09:00:00Z",
-        "streamingSupported": false
+        "streamingSupported": true
       },
       {
         "ageRating": {
