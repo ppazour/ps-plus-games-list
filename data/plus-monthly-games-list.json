@@ -11,39 +11,8 @@
   },
   {
     "catalogKey": "C",
-    "count": 1,
-    "games": [
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 16",
-          "descriptors": [
-            {
-              "description": "Kraftausdrücke",
-              "name": "PEGI_STRONG_LANGUAGE"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_16",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
-        },
-        "conceptId": 10003362,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10003362",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "ROLE_PLAYING_GAMES"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1611/6O2jAYhTUqhcJYYJeNex5oKJ.png",
-        "name": "Chained Echoes",
-        "nameEn": "Chained Echoes",
-        "productId": "EP0900-CUSA29547_00-4103461541053748",
-        "releaseDate": "2022-12-07T23:00:00Z",
-        "streamingSupported": false
-      }
-    ]
+    "count": 0,
+    "games": []
   },
   {
     "catalogKey": "D",
@@ -52,8 +21,40 @@
   },
   {
     "catalogKey": "E",
-    "count": 0,
-    "games": []
+    "count": 1,
+    "games": [
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 12",
+          "descriptors": [
+            {
+              "description": "Moderate Gewalt",
+              "name": "PEGI_MODERATE_VIOLENCE"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_12",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/12.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/12.png"
+        },
+        "conceptId": 10008165,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10008165",
+        "device": [
+          "PS4",
+          "PS5"
+        ],
+        "genre": [
+          "ACTION"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/e9b205a3007e3dab6c7e35d9a18a580393450c7abf15d048.png",
+        "name": "EARTH DEFENSE FORCE: WORLD BROTHERS 2　PS4 & PS5",
+        "nameEn": "EARTH DEFENSE FORCE: WORLD BROTHERS 2　PS4 & PS5",
+        "productId": "EP3036-PPSA15928_00-EDFWORLDBROTHER2",
+        "releaseDate": "2024-09-25T22:00:00Z",
+        "streamingSupported": true
+      }
+    ]
   },
   {
     "catalogKey": "F",
@@ -62,50 +63,33 @@
       {
         "ageRating": {
           "authority": "PEGI",
-          "description": "PEGI 18",
+          "description": "PEGI 3",
           "descriptors": [
             {
-              "description": "Glücksspiel",
-              "name": "PEGI_GAMBLING",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/gambling.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/gambling.png"
-            },
-            {
-              "description": "Vulgärsprache",
-              "name": "PEGI_LANGUAGE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
-            },
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            },
-            {
-              "description": "In-Game-Käufe (zufällige Objekte möglich)",
-              "name": "PEGI_IN_GAME_PURCHASES_INCLUDES_RANDOM_ITEMS"
+              "description": "In-Game Purchases",
+              "name": "PEGI_IN_GAME_PURCHASES",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
             }
           ],
           "interactiveElements": [],
-          "name": "PEGI_18",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
+          "name": "PEGI_3",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/3.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/3.png"
         },
-        "conceptId": 232248,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/232248",
+        "conceptId": 10011830,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10011830",
         "device": [
-          "PS4",
           "PS5"
         ],
         "genre": [
-          "ROLE_PLAYING_GAMES"
+          "RACING"
         ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1214/4240708e955c460e92bcaa1f453f1e50567f29fce6636431.png",
-        "name": "Fallout 76 PS4 & PS5",
-        "nameEn": "Fallout 76 PS4 & PS5",
-        "productId": "EP1003-PPSA30933_00-PROJECTSYMES0000",
-        "releaseDate": "2026-09-15T16:00:00Z",
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1521/44c15449fbe9485987e27e2fa2c86008a7b4a89d9ab7e0a8.png",
+        "name": "F1® 25",
+        "nameEn": "F1® 25",
+        "productId": "UP0006-PPSA24662_00-F12025PS5GAME000",
+        "releaseDate": "2025-05-30T15:00:00Z",
         "streamingSupported": true
       }
     ]
@@ -117,8 +101,89 @@
   },
   {
     "catalogKey": "H",
-    "count": 0,
-    "games": []
+    "count": 2,
+    "games": [
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 18",
+          "descriptors": [
+            {
+              "description": "In-Game Purchases",
+              "name": "PEGI_IN_GAME_PURCHASES",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
+            },
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_18",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
+        },
+        "conceptId": 234014,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/234014",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "SHOOTER",
+          "SHOOTER",
+          "ACTION"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0209/7a53b60fb9c5f332d91ccfcf29d12bc769875aa8e6b8f4ed.png",
+        "name": "Hunt: Showdown 1896",
+        "nameEn": "Hunt: Showdown 1896",
+        "productId": "EP4291-PPSA16357_00-0286411811680806",
+        "releaseDate": "2024-08-15T07:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 18",
+          "descriptors": [
+            {
+              "description": "In-Game Purchases",
+              "name": "PEGI_IN_GAME_PURCHASES",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
+            },
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_18",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
+        },
+        "conceptId": 234014,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/234014",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "SHOOTER",
+          "SHOOTER",
+          "ACTION"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0612/f0d1886b7061d7ab5e084580a3e29cc3910e2644f357fbb5.png",
+        "name": "Hunt: Showdown 1896 – Starter Pack for PlayStation®Plus – Among Crimson Shadows",
+        "nameEn": "Hunt: Showdown 1896 – Starter Pack for PlayStation®Plus – Among Crimson Shadows",
+        "productId": "EP4291-PPSA16357_00-THEHUNTGAME00083",
+        "releaseDate": "2026-10-06T08:00:00Z",
+        "streamingSupported": false
+      }
+    ]
   },
   {
     "catalogKey": "I",
@@ -142,75 +207,8 @@
   },
   {
     "catalogKey": "M",
-    "count": 2,
-    "games": [
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 3",
-          "descriptors": [],
-          "interactiveElements": [
-            {
-              "description": "In-Game-Käufe (zufällige Objekte möglich)",
-              "name": "PEGI_IN_GAME_PURCHASES_RANDOM"
-            },
-            {
-              "description": "Nutzerinteraktion",
-              "name": "PEGI_USERS_INTERACT"
-            }
-          ],
-          "name": "PEGI_3",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/3.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/3.png"
-        },
-        "conceptId": 10015430,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10015430",
-        "device": [
-          "PS5"
-        ],
-        "genre": [
-          "SPORTS"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0816/791b0f1880e27c1d8f52187daea36abfe5fd3b0ff1144007.png",
-        "name": "MLB® The Show™ 26",
-        "nameEn": "MLB® The Show™ 26",
-        "productId": "UP9000-PPSA30630_00-MLBTHESHOW26PLUS",
-        "releaseDate": "2026-09-01T19:00:00Z",
-        "streamingSupported": true
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 3",
-          "descriptors": [],
-          "interactiveElements": [
-            {
-              "description": "In-Game-Käufe (zufällige Objekte möglich)",
-              "name": "PEGI_IN_GAME_PURCHASES_RANDOM"
-            },
-            {
-              "description": "Nutzerinteraktion",
-              "name": "PEGI_USERS_INTERACT"
-            }
-          ],
-          "name": "PEGI_3",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/3.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/3.png"
-        },
-        "conceptId": 10015430,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10015430",
-        "device": [],
-        "genre": [
-          "SPORTS"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2100/035494835cd93a14cb0ecdc160adcf2c6cbce92fff15c738.png",
-        "name": "MLB® The Show™ 26 Jump Start Bundle",
-        "nameEn": "MLB® The Show™ 26 Jump Start Bundle",
-        "productId": "UP9000-PPSA30630_00-JMSBN01000000000",
-        "releaseDate": "2026-09-01T16:00:00Z",
-        "streamingSupported": false
-      }
-    ]
+    "count": 0,
+    "games": []
   },
   {
     "catalogKey": "N",
@@ -239,49 +237,8 @@
   },
   {
     "catalogKey": "S",
-    "count": 1,
-    "games": [
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 16",
-          "descriptors": [
-            {
-              "description": "In-Game Purchases",
-              "name": "PEGI_IN_GAME_PURCHASES",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
-            },
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_16",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
-        },
-        "conceptId": 10008716,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10008716",
-        "device": [
-          "PS4",
-          "PS5"
-        ],
-        "genre": [
-          "SHOOTER",
-          "ACTION"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1309/05d041f5216b1cd55a4587729534ce8ac8c557877b4d1483.png",
-        "name": "Sniper Elite: Resistance PS4™ & PS5™",
-        "nameEn": "Sniper Elite: Resistance PS4™ & PS5™",
-        "productId": "UP4363-PPSA17232_00-SNIPERELITERES00",
-        "releaseDate": "2025-01-30T14:00:00Z",
-        "streamingSupported": true
-      }
-    ]
+    "count": 0,
+    "games": []
   },
   {
     "catalogKey": "T",
@@ -300,42 +257,8 @@
   },
   {
     "catalogKey": "W",
-    "count": 1,
-    "games": [
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 7",
-          "descriptors": [
-            {
-              "description": "Gemäßigte Gewalt",
-              "name": "PEGI_MILD_VIOLENCE"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_7",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/7.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/7.png"
-        },
-        "conceptId": 10004896,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10004896",
-        "device": [
-          "PS4",
-          "PS5"
-        ],
-        "genre": [
-          "CASUAL",
-          "FAMILY",
-          "ADVENTURE"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0810/iCrnQDLqgGBSnHkTFbOzQX2Q.png",
-        "name": "Wobbly Life",
-        "nameEn": "Wobbly Life",
-        "productId": "UP7742-PPSA29413_00-0632159817352246",
-        "releaseDate": "2025-09-18T17:00:00Z",
-        "streamingSupported": true
-      }
-    ]
+    "count": 0,
+    "games": []
   },
   {
     "catalogKey": "X",

@@ -3421,7 +3421,7 @@
           "HORROR",
           "ACTION"
         ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2514/26c99fcc3c281ffcac505a75fa110c2023eea0e26f90a56d.png",
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0113/e98238835ada32e22b4e21455b4206cacd19070ea359763f.png",
         "name": "Dead by Daylight PS4® & PS5®",
         "nameEn": "Dead by Daylight PS4® & PS5®",
         "productId": "EP3367-PPSA02049_00-DEADBYDAYLIGHT00",
@@ -4348,8 +4348,8 @@
         "conceptId": 232374,
         "conceptUrl": "https://store.playstation.com/de-at/concept/232374",
         "device": [
-          "PS4",
-          "PS5"
+          "PS5",
+          "PS4"
         ],
         "genre": [
           "UNIQUE"
@@ -11530,7 +11530,7 @@
   },
   {
     "catalogKey": "S",
-    "count": 40,
+    "count": 41,
     "games": [
       {
         "ageRating": {
@@ -12177,6 +12177,46 @@
         "nameEn": "Sniper Elite 5 PS4™ & PS5™",
         "productId": "EP4529-PPSA04444_00-SNIPERELITE50000",
         "releaseDate": "2022-05-25T22:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 16",
+          "descriptors": [
+            {
+              "description": "In-Game Purchases",
+              "name": "PEGI_IN_GAME_PURCHASES",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
+            },
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_16",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
+        },
+        "conceptId": 10008716,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10008716",
+        "device": [
+          "PS4",
+          "PS5"
+        ],
+        "genre": [
+          "SHOOTER",
+          "ACTION"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1309/05d041f5216b1cd55a4587729534ce8ac8c557877b4d1483.png",
+        "name": "Sniper Elite: Resistance PS4™ & PS5™",
+        "nameEn": "Sniper Elite: Resistance PS4™ & PS5™",
+        "productId": "UP4363-PPSA17232_00-SNIPERELITERES00",
+        "releaseDate": "2025-01-30T14:00:00Z",
         "streamingSupported": true
       },
       {
