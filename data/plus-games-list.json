@@ -130,7 +130,7 @@
         "conceptId": 10005843,
         "conceptUrl": "https://store.playstation.com/de-at/concept/10005843",
         "device": [
-          "PS5"
+          "PS4"
         ],
         "genre": [
           "ADVENTURE"
@@ -138,9 +138,9 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1606/oXtps1uT1x0cAMxa6r1FtkhQ.png",
         "name": "A Space for the Unbound",
         "nameEn": "A Space for the Unbound",
-        "productId": "EP5438-PPSA12231_00-3012350012863551",
+        "productId": "EP5438-CUSA39157_00-6085943575502208",
         "releaseDate": "2023-01-18T23:00:00Z",
-        "streamingSupported": true
+        "streamingSupported": false
       },
       {
         "ageRating": {
@@ -318,8 +318,8 @@
           "SIMULATION"
         ],
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1519/4VflW4eIDaJxRKQjgoQn7NhX.png",
-        "name": "Anno 1800™ Console Edition - Standard",
-        "nameEn": "Anno 1800™ Console Edition - Standard",
+        "name": "Anno 1800",
+        "nameEn": "Anno 1800",
         "productId": "EP0001-PPSA04719_00-ANNO1800PS000000",
         "releaseDate": "2023-03-15T23:00:00Z",
         "streamingSupported": true
@@ -3135,8 +3135,8 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1119/4b2bc50a0bb1fa4a27273cd583b59e922de33a3d9da23a59.png",
         "name": "Crow Country",
         "nameEn": "Crow Country",
-        "productId": "EP6092-CUSA45566_00-0479825755214299",
-        "releaseDate": "2024-10-22T15:00:00Z",
+        "productId": "EP6092-PPSA19068_00-0774729484968635",
+        "releaseDate": "2024-05-09T15:00:00Z",
         "streamingSupported": true
       },
       {
@@ -6976,12 +6976,16 @@
           "description": "PEGI 16",
           "descriptors": [
             {
-              "description": "Intensive Gewalt",
-              "name": "PEGI_STRONG_VIOLENCE"
+              "description": "Vulgärsprache",
+              "name": "PEGI_LANGUAGE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
             },
             {
-              "description": "Kraftausdrücke",
-              "name": "PEGI_STRONG_LANGUAGE"
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
             }
           ],
           "interactiveElements": [],
@@ -6989,21 +6993,22 @@
           "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
           "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
         },
-        "conceptId": 10005940,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10005940",
+        "conceptId": 202006,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/202006",
         "device": [
-          "PS4",
-          "PS5"
+          "PS4"
         ],
         "genre": [
+          "ACTION",
+          "ACTION",
           "ACTION"
         ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/31633b753add90ce0d9c17ba4ebad3969104e44e83e303d6.png",
+        "imageUrl": "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/7VFswNq3kPqEoIb5xyfZL2YFNHO2aoTD.png",
         "name": "Hotline Miami",
         "nameEn": "Hotline Miami",
-        "productId": "EP3643-PPSA09683_00-7596522310430398",
-        "releaseDate": "2023-10-23T16:00:00Z",
-        "streamingSupported": true
+        "productId": "EP3643-CUSA00528_00-HOTLINEMIAMIBNDL",
+        "releaseDate": "2014-08-19T22:00:00Z",
+        "streamingSupported": false
       },
       {
         "ageRating": {
@@ -11411,7 +11416,7 @@
         "conceptId": 10001348,
         "conceptUrl": "https://store.playstation.com/de-at/concept/10001348",
         "device": [
-          "PS5"
+          "PS4"
         ],
         "genre": [
           "ROLE_PLAYING_GAMES"
@@ -11419,9 +11424,9 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/1813/FHhoyE3vgSQ9MZqIlxK8XMT9.png",
         "name": "Roguebook",
         "nameEn": "Roguebook",
-        "productId": "EP4008-PPSA02076_00-RBK0000000000000",
+        "productId": "EP4008-CUSA24281_00-RBK0000000000000",
         "releaseDate": "2022-02-24T09:00:00Z",
-        "streamingSupported": true
+        "streamingSupported": false
       },
       {
         "ageRating": {
@@ -16170,7 +16175,7 @@
         "conceptId": 234709,
         "conceptUrl": "https://store.playstation.com/de-at/concept/234709",
         "device": [
-          "PS4"
+          "PS5"
         ],
         "genre": [
           "UNIQUE"
@@ -16178,9 +16183,9 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202106/0715/VFixb2toiP73l3rExKbjGeH1.png",
         "name": "Werewolf: The Apocalypse – Earthblood",
         "nameEn": "Werewolf: The Apocalypse – Earthblood",
-        "productId": "EP4008-CUSA16782_00-WTASIEE000000000",
+        "productId": "EP4008-PPSA02113_00-WTASIEE000000000",
         "releaseDate": "2021-02-04T09:00:00Z",
-        "streamingSupported": false
+        "streamingSupported": true
       },
       {
         "ageRating": {
