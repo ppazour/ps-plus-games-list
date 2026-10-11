@@ -2514,7 +2514,7 @@
   },
   {
     "catalogKey": "M",
-    "count": 11,
+    "count": 10,
     "games": [
       {
         "ageRating": {
@@ -2724,42 +2724,6 @@
         "nameEn": "Metro Redux",
         "productId": "EP4062-CUSA00593_00-MCOMPLREDUXDISC1",
         "releaseDate": "2014-08-28T22:00:00Z",
-        "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 18",
-          "descriptors": [
-            {
-              "description": "Extreme Gewalt",
-              "name": "PEGI_EXTREME_VIOLENCE"
-            },
-            {
-              "description": "Kraftausdrücke",
-              "name": "PEGI_STRONG_LANGUAGE"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_18",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
-        },
-        "conceptId": 226459,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/226459",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "SHOOTER",
-          "ACTION",
-          "SHOOTER"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202103/0313/xRBuhxOu8IbVAV32S8Ow9Eiv.png",
-        "name": "Metro: Last Light Redux",
-        "nameEn": "Metro: Last Light Redux",
-        "productId": "EP4062-CUSA00592_00-MLLREDUXDIGITAL1",
-        "releaseDate": "2015-06-01T22:00:00Z",
         "streamingSupported": false
       },
       {
