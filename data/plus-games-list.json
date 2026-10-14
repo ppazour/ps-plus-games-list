@@ -9685,7 +9685,6 @@
         "conceptId": 227431,
         "conceptUrl": "https://store.playstation.com/de-at/concept/227431",
         "device": [
-          "PS4",
           "PS5"
         ],
         "genre": [
@@ -9694,7 +9693,7 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202111/1114/x11L6rvYTz3IvbuvlDnryUJO.png",
         "name": "Oddworld: Soulstorm Enhanced Edition",
         "nameEn": "Oddworld: Soulstorm Enhanced Edition",
-        "productId": "EP4134-CUSA25350_00-5441507510661245",
+        "productId": "EP4134-PPSA02259_00-4683460980396423",
         "releaseDate": "2021-04-05T22:00:00Z",
         "streamingSupported": true
       },
