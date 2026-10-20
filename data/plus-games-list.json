@@ -8527,10 +8527,8 @@
           "description": "PEGI 16",
           "descriptors": [
             {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+              "description": "Intensive Gewalt",
+              "name": "PEGI_STRONG_VIOLENCE"
             }
           ],
           "interactiveElements": [],
