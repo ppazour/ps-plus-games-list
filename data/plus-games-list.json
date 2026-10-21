@@ -3240,7 +3240,7 @@
   },
   {
     "catalogKey": "D",
-    "count": 32,
+    "count": 31,
     "games": [
       {
         "ageRating": {
@@ -3581,33 +3581,6 @@
         "nameEn": "Death end reQuest™",
         "productId": "EP4060-CUSA13080_00-DEATHENDREQUEST0",
         "releaseDate": "2019-02-21T23:00:00Z",
-        "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 3+",
-          "descriptors": [],
-          "interactiveElements": [],
-          "name": "PEGI_3",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/3.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/3.png"
-        },
-        "conceptId": 225086,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/225086",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "FAMILY",
-          "PARTY",
-          "PUZZLE"
-        ],
-        "imageUrl": "https://image.api.playstation.com/cdn/EP8946/CUSA06739_00/hlJa7HykLWHGqjS5vUWeCKzyALBibeka.png",
-        "name": "Death Squared",
-        "nameEn": "Death Squared",
-        "productId": "EP8946-CUSA06739_00-1111212111112112",
-        "releaseDate": "2017-03-14T00:00:00Z",
         "streamingSupported": false
       },
       {
@@ -6051,7 +6024,7 @@
   },
   {
     "catalogKey": "G",
-    "count": 15,
+    "count": 14,
     "games": [
       {
         "ageRating": {
@@ -6112,52 +6085,6 @@
         "productId": "EP3678-CUSA16689_00-GIGANTOBASEGAME0",
         "releaseDate": "2020-03-26T23:00:00Z",
         "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 12",
-          "descriptors": [
-            {
-              "description": "In-Game Purchases",
-              "name": "PEGI_IN_GAME_PURCHASES",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
-            },
-            {
-              "description": "Vulgärsprache",
-              "name": "PEGI_LANGUAGE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
-            },
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_12",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/12.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/12.png"
-        },
-        "conceptId": 10005240,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10005240",
-        "device": [
-          "PS4",
-          "PS5"
-        ],
-        "genre": [
-          "STRATEGY",
-          "ROLE_PLAYING_GAMES"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0213/d440735da53ed87dd3b8e9a1a098e31732a1da3b5b3e1b8c.png",
-        "name": "Gloomhaven Mercenaries Edition",
-        "nameEn": "Gloomhaven Mercenaries Edition",
-        "productId": "EP4917-PPSA08116_00-GLOOMHAVENMERC01",
-        "releaseDate": "2023-09-18T08:00:00Z",
-        "streamingSupported": true
       },
       {
         "ageRating": {
@@ -6611,7 +6538,7 @@
   },
   {
     "catalogKey": "H",
-    "count": 17,
+    "count": 18,
     "games": [
       {
         "ageRating": {
@@ -6862,6 +6789,45 @@
         "nameEn": "Hollow Knight Voidheart Edition",
         "productId": "EP1805-PPSA34971_00-0755643093148556",
         "releaseDate": "2026-02-06T00:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 16",
+          "descriptors": [
+            {
+              "description": "In-Game Purchases",
+              "name": "PEGI_IN_GAME_PURCHASES",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
+            },
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_16",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
+        },
+        "conceptId": 10000886,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10000886",
+        "device": [
+          "PS4",
+          "PS5"
+        ],
+        "genre": [
+          "ACTION"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/9v9q3P2LuokLyI0Tsp4hHq9G.png",
+        "name": "Horizon Forbidden West™",
+        "nameEn": "Horizon Forbidden West™",
+        "productId": "EP9000-PPSA01521_00-FORBIDDENWESTPS5",
+        "releaseDate": "2022-02-17T23:00:00Z",
         "streamingSupported": true
       },
       {
@@ -7484,7 +7450,7 @@
   },
   {
     "catalogKey": "J",
-    "count": 2,
+    "count": 1,
     "games": [
       {
         "ageRating": {
@@ -7518,40 +7484,6 @@
         "productId": "EP3678-CUSA14807_00-JUMANJIBASEGAME0",
         "releaseDate": "2019-11-07T23:00:00Z",
         "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 16",
-          "descriptors": [
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_16",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
-        },
-        "conceptId": 10002577,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10002577",
-        "device": [
-          "PS4",
-          "PS5"
-        ],
-        "genre": [
-          "STRATEGY",
-          "SIMULATION"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2708/WZhQmSMCGEJgLHhnikOcuMnu.png",
-        "name": "Jurassic World Evolution 2",
-        "nameEn": "Jurassic World Evolution 2",
-        "productId": "EP2377-PPSA03286_00-JWEVOLUTION2AAAA",
-        "releaseDate": "2021-11-09T13:00:00Z",
-        "streamingSupported": true
       }
     ]
   },
@@ -7842,44 +7774,8 @@
   },
   {
     "catalogKey": "L",
-    "count": 15,
+    "count": 14,
     "games": [
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 16",
-          "descriptors": [
-            {
-              "description": "Alkohol-/Tabakkonsum",
-              "name": "PEGI_USE_OF_ALCOHOL_TOBACCO"
-            },
-            {
-              "description": "Kraftausdrücke",
-              "name": "PEGI_STRONG_LANGUAGE"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_16",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
-        },
-        "conceptId": 10003149,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10003149",
-        "device": [
-          "PS5"
-        ],
-        "genre": [
-          "UNIQUE",
-          "ADVENTURE",
-          "SIMULATION"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1816/b1604e488f92488c2ba4b6c84bf565f0bcf5b0e593792292.png",
-        "name": "Lake PS4 & PS5",
-        "nameEn": "Lake PS4 & PS5",
-        "productId": "EP5403-PPSA06333_00-LAKEPS5SIEEFULL0",
-        "releaseDate": "2022-04-08T13:00:00Z",
-        "streamingSupported": true
-      },
       {
         "ageRating": {
           "authority": "PEGI",
@@ -8385,8 +8281,53 @@
   },
   {
     "catalogKey": "M",
-    "count": 28,
+    "count": 31,
     "games": [
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 18",
+          "descriptors": [
+            {
+              "description": "In-Game Purchases",
+              "name": "PEGI_IN_GAME_PURCHASES",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
+            },
+            {
+              "description": "Vulgärsprache",
+              "name": "PEGI_LANGUAGE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
+            },
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_18",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
+        },
+        "conceptId": 10007134,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10007134",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "ACTION",
+          "ADVENTURE"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/06f677b905f8794395b855a0de3e9fcb42b567e78c50aaed.png",
+        "name": "Mafia: The Old Country",
+        "nameEn": "Mafia: The Old Country",
+        "productId": "EP1001-PPSA14299_00-00000NEROPS5SIEE",
+        "releaseDate": "2025-08-07T22:00:00Z",
+        "streamingSupported": true
+      },
       {
         "ageRating": {
           "authority": "PEGI",
@@ -8993,6 +8934,39 @@
       {
         "ageRating": {
           "authority": "PEGI",
+          "description": "PEGI 3",
+          "descriptors": [
+            {
+              "description": "In-Game Purchases",
+              "name": "PEGI_IN_GAME_PURCHASES",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_3",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/3.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/3.png"
+        },
+        "conceptId": 10009931,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10009931",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "SPORTS",
+          "RACING"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1409/fa3f9b7d40c4b31a7247bf908a73e99391fe6c465926edd7.png",
+        "name": "Monster Energy Supercross 25 - The Official Video Game",
+        "nameEn": "Monster Energy Supercross 25 - The Official Video Game",
+        "productId": "EP4356-PPSA20435_00-SUPERCROSS25GAME",
+        "releaseDate": "2025-04-09T22:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
           "description": "PEGI 7",
           "descriptors": [
             {
@@ -9303,6 +9277,37 @@
         "nameEn": "My Friend Peppa Pig",
         "productId": "EP3678-PPSA03706_00-2543889420204772",
         "releaseDate": "2022-01-20T23:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 16",
+          "descriptors": [
+            {
+              "description": "Kraftausdrücke",
+              "name": "PEGI_STRONG_LANGUAGE"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_16",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
+        },
+        "conceptId": 10018765,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10018765",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "ACTION",
+          "SHOOTER"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1321/6dafd54c5f7bff9737d2b0c462a8e0852f645571418a3163.png",
+        "name": "Mycopunk",
+        "nameEn": "Mycopunk",
+        "productId": "UP3643-PPSA36332_00-0420289286760563",
+        "releaseDate": "2026-10-20T17:00:00Z",
         "streamingSupported": true
       },
       {
@@ -9896,7 +9901,7 @@
   },
   {
     "catalogKey": "P",
-    "count": 23,
+    "count": 24,
     "games": [
       {
         "ageRating": {
@@ -10489,6 +10494,42 @@
       {
         "ageRating": {
           "authority": "PEGI",
+          "description": "PEGI 16",
+          "descriptors": [
+            {
+              "description": "Horror",
+              "name": "PEGI_HORROR",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/horror.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/horror.png"
+            },
+            {
+              "description": "Intensive Gewalt",
+              "name": "PEGI_STRONG_VIOLENCE"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_16",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
+        },
+        "conceptId": 10010437,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10010437",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "HORROR"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2820/7981c9f8f122ac08d5febb8b883578b895300f8248f8cb1a.png",
+        "name": "Poppy Playtime: Chapter 2",
+        "nameEn": "Poppy Playtime: Chapter 2",
+        "productId": "UP8103-PPSA21631_00-0349038686339467",
+        "releaseDate": "2024-09-20T14:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
           "description": "PEGI 12",
           "descriptors": [
             {
@@ -10675,7 +10716,7 @@
   },
   {
     "catalogKey": "R",
-    "count": 23,
+    "count": 22,
     "games": [
       {
         "ageRating": {
@@ -11362,38 +11403,6 @@
       {
         "ageRating": {
           "authority": "PEGI",
-          "description": "PEGI 12",
-          "descriptors": [
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_12",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/12.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/12.png"
-        },
-        "conceptId": 10000504,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10000504",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "ADVENTURE"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0513/ypvQEl55fsAilYe6RgE2FpUR.png",
-        "name": "Rogue Lords",
-        "nameEn": "Rogue Lords",
-        "productId": "EP4008-CUSA19326_00-RLSIEE0000000000",
-        "releaseDate": "2022-05-12T08:00:00Z",
-        "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
           "description": "PEGI 7",
           "descriptors": [
             {
@@ -11528,7 +11537,7 @@
   },
   {
     "catalogKey": "S",
-    "count": 41,
+    "count": 40,
     "games": [
       {
         "ageRating": {
@@ -11950,38 +11959,6 @@
         "productId": "EP3643-CUSA05648_00-SHADOWWARRIOR200",
         "releaseDate": "2017-05-18T22:00:00Z",
         "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 18",
-          "descriptors": [
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_18",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
-        },
-        "conceptId": 10005529,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10005529",
-        "device": [
-          "PS5"
-        ],
-        "genre": [
-          "HORROR"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2000/IgwsFz9BiBrFvyV7pIWpoVgd.png",
-        "name": "SILENT HILL 2",
-        "nameEn": "SILENT HILL 2",
-        "productId": "EP0101-PPSA08709_00-MAINGAME00000000",
-        "releaseDate": "2024-10-07T22:00:00Z",
-        "streamingSupported": true
       },
       {
         "ageRating": {
@@ -13012,7 +12989,7 @@
   },
   {
     "catalogKey": "T",
-    "count": 64,
+    "count": 66,
     "games": [
       {
         "ageRating": {
@@ -13053,6 +13030,51 @@
         "nameEn": "Tails Noir",
         "productId": "EP2187-PPSA03218_00-BACKBONEOPS5SIEE",
         "releaseDate": "2021-10-28T00:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 12",
+          "descriptors": [
+            {
+              "description": "In-Game Purchases",
+              "name": "PEGI_IN_GAME_PURCHASES",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
+            },
+            {
+              "description": "Vulgärsprache",
+              "name": "PEGI_LANGUAGE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
+            },
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_12",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/12.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/12.png"
+        },
+        "conceptId": 234823,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/234823",
+        "device": [
+          "PS4",
+          "PS5"
+        ],
+        "genre": [
+          "ROLE_PLAYING_GAMES"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/3011/b88f41716c66fb8c83437eb221fef51480bac2433ccdcfcd.png",
+        "name": "Tales of Arise - Beyond the Dawn Edition",
+        "nameEn": "Tales of Arise - Beyond the Dawn Edition",
+        "productId": "EP0700-PPSA02745_00-BTDEDITION000000",
+        "releaseDate": "2023-09-19T22:00:00Z",
         "streamingSupported": true
       },
       {
@@ -13970,6 +13992,43 @@
         "nameEn": "The Lord of the Rings: Return to Moria™",
         "productId": "EP7581-PPSA16618_00-0277621140622233",
         "releaseDate": "2023-12-04T23:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 12",
+          "descriptors": [
+            {
+              "description": "Horror",
+              "name": "PEGI_HORROR",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/horror.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/horror.png"
+            },
+            {
+              "description": "Moderate Gewalt",
+              "name": "PEGI_MODERATE_VIOLENCE"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_12",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/12.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/12.png"
+        },
+        "conceptId": 10009390,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10009390",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "HORROR",
+          "ADVENTURE"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1110/b0815b75af7073ee06d73f71eef4d84f8b1c64b07a34cb53.png",
+        "name": "The Midnight Walk",
+        "nameEn": "The Midnight Walk",
+        "productId": "EP2907-PPSA24864_00-0657719756865376",
+        "releaseDate": "2025-05-07T22:00:00Z",
         "streamingSupported": true
       },
       {
@@ -16747,53 +16806,8 @@
   },
   {
     "catalogKey": "Y",
-    "count": 5,
+    "count": 4,
     "games": [
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 18",
-          "descriptors": [
-            {
-              "description": "Glücksspiel",
-              "name": "PEGI_GAMBLING",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/gambling.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/gambling.png"
-            },
-            {
-              "description": "Vulgärsprache",
-              "name": "PEGI_LANGUAGE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
-            },
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_18",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
-        },
-        "conceptId": 235238,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/235238",
-        "device": [
-          "PS4",
-          "PS5"
-        ],
-        "genre": [
-          "UNIQUE"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0917/fid2e7IysrUvFqmppIxi48GT.png",
-        "name": "Yakuza: Like a Dragon PS4 & PS5",
-        "nameEn": "Yakuza: Like a Dragon PS4 & PS5",
-        "productId": "EP0177-PPSA02384_00-LIKEADRAGON00000",
-        "releaseDate": "2021-03-01T23:00:00Z",
-        "streamingSupported": true
-      },
       {
         "ageRating": {
           "authority": "PEGI",
