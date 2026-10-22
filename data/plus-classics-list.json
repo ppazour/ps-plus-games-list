@@ -2695,7 +2695,12 @@
               "name": "PEGI_STRONG_LANGUAGE"
             }
           ],
-          "interactiveElements": [],
+          "interactiveElements": [
+            {
+              "description": "In-Game-Käufe",
+              "name": "PEGI_IN_GAME_PURCHASES"
+            }
+          ],
           "name": "PEGI_16",
           "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
           "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
@@ -2722,6 +2727,12 @@
           "authority": "PEGI",
           "description": "PEGI 18",
           "descriptors": [
+            {
+              "description": "In-Game Purchases",
+              "name": "PEGI_IN_GAME_PURCHASES",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
+            },
             {
               "description": "Vulgärsprache",
               "name": "PEGI_LANGUAGE",

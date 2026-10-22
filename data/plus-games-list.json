@@ -9688,7 +9688,6 @@
         "conceptId": 227431,
         "conceptUrl": "https://store.playstation.com/de-at/concept/227431",
         "device": [
-          "PS4",
           "PS5"
         ],
         "genre": [
@@ -9697,7 +9696,7 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202111/1114/x11L6rvYTz3IvbuvlDnryUJO.png",
         "name": "Oddworld: Soulstorm Enhanced Edition",
         "nameEn": "Oddworld: Soulstorm Enhanced Edition",
-        "productId": "EP4134-CUSA25350_00-5441507510661245",
+        "productId": "EP4134-PPSA02259_00-4683460980396423",
         "releaseDate": "2021-04-05T22:00:00Z",
         "streamingSupported": true
       },
@@ -16227,7 +16226,7 @@
         "conceptId": 234709,
         "conceptUrl": "https://store.playstation.com/de-at/concept/234709",
         "device": [
-          "PS4"
+          "PS5"
         ],
         "genre": [
           "UNIQUE"
@@ -16235,9 +16234,9 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202106/0715/VFixb2toiP73l3rExKbjGeH1.png",
         "name": "Werewolf: The Apocalypse – Earthblood",
         "nameEn": "Werewolf: The Apocalypse – Earthblood",
-        "productId": "EP4008-CUSA16782_00-WTASIEE000000000",
+        "productId": "EP4008-PPSA02113_00-WTASIEE000000000",
         "releaseDate": "2021-02-04T09:00:00Z",
-        "streamingSupported": false
+        "streamingSupported": true
       },
       {
         "ageRating": {
@@ -16646,7 +16645,7 @@
         "conceptId": 230658,
         "conceptUrl": "https://store.playstation.com/de-at/concept/230658",
         "device": [
-          "PS5"
+          "PS4"
         ],
         "genre": [
           "SHOOTER",
@@ -16655,9 +16654,9 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1609/H7gbJJRlxx0gh6L40A0kkZ5x.png",
         "name": "World War Z: Aftermath",
         "nameEn": "World War Z: Aftermath",
-        "productId": "EP6853-PPSA05425_00-WWZGAME000000PS5",
-        "releaseDate": "2023-01-24T14:00:00Z",
-        "streamingSupported": true
+        "productId": "EP2609-CUSA13930_00-WWZAFTMTBUN000EU",
+        "releaseDate": "2021-09-18T22:00:00Z",
+        "streamingSupported": false
       },
       {
         "ageRating": {
