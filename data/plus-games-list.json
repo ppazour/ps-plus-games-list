@@ -4992,7 +4992,7 @@
   },
   {
     "catalogKey": "F",
-    "count": 28,
+    "count": 27,
     "games": [
       {
         "ageRating": {
@@ -5845,38 +5845,6 @@
         "nameEn": "Flintlock: The Siege of Dawn",
         "productId": "EP7579-PPSA07385_00-FLINTLOCK00PS5EU",
         "releaseDate": "2024-07-17T22:00:00Z",
-        "streamingSupported": true
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 3",
-          "descriptors": [
-            {
-              "description": "In-Game Purchases",
-              "name": "PEGI_IN_GAME_PURCHASES",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_3",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/3.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/3.png"
-        },
-        "conceptId": 10014519,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10014519",
-        "device": [
-          "PS5"
-        ],
-        "genre": [
-          "SPORTS"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0112/e1a7a09b0d6a2adbcd22d206e82aefa406d34723c9eb2b38.png",
-        "name": "Football Manager 26 Console",
-        "nameEn": "Football Manager 26 Console",
-        "productId": "EP0177-PPSA29707_00-FM26GLOBAL000000",
-        "releaseDate": "2025-11-04T16:00:00Z",
         "streamingSupported": true
       },
       {

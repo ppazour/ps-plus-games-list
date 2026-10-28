@@ -409,7 +409,7 @@
   },
   {
     "catalogKey": "B",
-    "count": 5,
+    "count": 4,
     "games": [
       {
         "ageRating": {
@@ -441,45 +441,6 @@
         "productId": "UP6261-PPSA27019_00-0679710665118767",
         "releaseDate": "2025-05-20T08:00:00Z",
         "streamingSupported": true
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 16",
-          "descriptors": [
-            {
-              "description": "Vulgärsprache",
-              "name": "PEGI_LANGUAGE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
-            },
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_16",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
-        },
-        "conceptId": 200599,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/200599",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "ACTION",
-          "ADVENTURE"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0522/0qBPvJ5xqVxay9Ia0LviK6wG.png",
-        "name": "BEYOND: Two Souls™",
-        "nameEn": "BEYOND: Two Souls™",
-        "productId": "EP9000-CUSA00511_00-GBEYONDTWO000001",
-        "releaseDate": "2015-11-25T23:00:00Z",
-        "streamingSupported": false
       },
       {
         "ageRating": {
@@ -5606,8 +5567,8 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2814/1EyzC0GmUPfAM0hil6CVcnLf.png",
         "name": "Worms World Party [PS1 Emulation]",
         "nameEn": "Worms World Party [PS1 Emulation]",
-        "productId": "EP4064-PPSA07310_00-SLES038040000000",
-        "releaseDate": "2025-07-24T09:00:00Z",
+        "productId": "EP4064-CUSA33247_00-SLES038040000000",
+        "releaseDate": "2022-06-22T23:00:00Z",
         "streamingSupported": true
       },
       {
