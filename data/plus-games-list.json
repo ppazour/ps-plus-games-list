@@ -3240,7 +3240,7 @@
   },
   {
     "catalogKey": "D",
-    "count": 31,
+    "count": 30,
     "games": [
       {
         "ageRating": {
@@ -3421,7 +3421,7 @@
           "HORROR",
           "ACTION"
         ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0113/e98238835ada32e22b4e21455b4206cacd19070ea359763f.png",
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2118/4448362515c1c03644cae01d08e4784b30224f81e6c25514.png",
         "name": "Dead by Daylight PS4® & PS5®",
         "nameEn": "Dead by Daylight PS4® & PS5®",
         "productId": "EP3367-PPSA02049_00-DEADBYDAYLIGHT00",
@@ -3824,45 +3824,6 @@
         "nameEn": "Destiny 2: Legacy Collection (2025)",
         "productId": "EP0002-PPSA02410_00-D2Y8LEGACYBDL001",
         "releaseDate": "2025-07-15T17:00:00Z",
-        "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 18",
-          "descriptors": [
-            {
-              "description": "Vulgärsprache",
-              "name": "PEGI_LANGUAGE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
-            },
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_18",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
-        },
-        "conceptId": 222727,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/222727",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "ADVENTURE",
-          "ACTION"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2119/wl4DB5QGzlEHAXy1KLUVgOAu.png",
-        "name": "Detroit: Become Human",
-        "nameEn": "Detroit: Become Human",
-        "productId": "EP9000-CUSA00717_00-DETROIT000000001",
-        "releaseDate": "2018-05-24T22:00:00Z",
         "streamingSupported": false
       },
       {
@@ -4409,7 +4370,7 @@
   },
   {
     "catalogKey": "E",
-    "count": 17,
+    "count": 16,
     "games": [
       {
         "ageRating": {
@@ -4934,31 +4895,6 @@
         "nameEn": "Erica",
         "productId": "EP9000-CUSA11882_00-ERICA00000000000",
         "releaseDate": "2019-08-18T22:00:00Z",
-        "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 3",
-          "descriptors": [],
-          "interactiveElements": [],
-          "name": "PEGI_3",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/3.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/3.png"
-        },
-        "conceptId": 209065,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/209065",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "SPORTS"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2320/PT1PAMO5aZHYRoOkrVNhybKD.png",
-        "name": "Everybody’s Golf",
-        "nameEn": "Everybody’s Golf",
-        "productId": "EP9000-CUSA02171_00-0011223344556677",
-        "releaseDate": "2017-08-29T22:00:00Z",
         "streamingSupported": false
       },
       {
@@ -8249,7 +8185,7 @@
   },
   {
     "catalogKey": "M",
-    "count": 31,
+    "count": 30,
     "games": [
       {
         "ageRating": {
@@ -8627,39 +8563,6 @@
         "nameEn": "MATTERFALL",
         "productId": "EP9000-CUSA02475_00-MATTERFALLEU0001",
         "releaseDate": "2017-08-15T22:00:00Z",
-        "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 12",
-          "descriptors": [
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_12",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/12.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/12.png"
-        },
-        "conceptId": 234427,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/234427",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "ACTION",
-          "ADVENTURE"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/img/cfn/11307Wm1JA9ApMArVhceTfFj0uYCsQj_rAHLUJA2Ku_rDY2sjiHAfntFA57HQqRBO7M6UPoVMfF2pbEUiA_AMefq5M4YSl4O.jpg",
-        "name": "MediEvil",
-        "nameEn": "MediEvil",
-        "productId": "EP9000-CUSA12982_00-MEDIEVILHD000001",
-        "releaseDate": "2019-10-24T22:00:00Z",
         "streamingSupported": false
       },
       {
@@ -11504,7 +11407,7 @@
   },
   {
     "catalogKey": "S",
-    "count": 40,
+    "count": 39,
     "games": [
       {
         "ageRating": {
@@ -11814,39 +11717,6 @@
         "nameEn": "Shadow of the Beast™",
         "productId": "EP9000-CUSA00951_00-SHADOWOFBEAST0EU",
         "releaseDate": "2016-05-16T22:00:00Z",
-        "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 12",
-          "descriptors": [
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_12",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/12.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/12.png"
-        },
-        "conceptId": 225857,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/225857",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "ACTION",
-          "ADVENTURE"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2319/XtqYrG2LWer39eExYBsh9J5x.png",
-        "name": "Shadow of the Colossus™",
-        "nameEn": "Shadow of the Colossus™",
-        "productId": "EP9000-CUSA08809_00-SOTC0000000000EU",
-        "releaseDate": "2018-02-06T23:00:00Z",
         "streamingSupported": false
       },
       {
@@ -16577,8 +16447,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
-          "SHOOTER"
+          "SHOOTER",
+          "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png",
         "name": "World War Z",
