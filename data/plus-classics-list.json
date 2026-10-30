@@ -2506,7 +2506,7 @@
   },
   {
     "catalogKey": "M",
-    "count": 10,
+    "count": 9,
     "games": [
       {
         "ageRating": {
@@ -2676,58 +2676,12 @@
           "ACTION",
           "SHOOTER"
         ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202103/0313/0XmesVquzTiWkjPy0vJlxrzZ.png",
-        "name": "Metro 2033 Redux",
-        "nameEn": "Metro 2033 Redux",
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0908/4c217e661408017edc10e775d9fd6c74d17246395e10b338.png",
+        "name": "METRO 2033 Redux",
+        "nameEn": "METRO 2033 Redux",
         "productId": "EP4062-CUSA00591_00-M33REDUXDIGITAL1",
         "releaseDate": "2015-06-01T22:00:00Z",
-        "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 18",
-          "descriptors": [
-            {
-              "description": "In-Game Purchases",
-              "name": "PEGI_IN_GAME_PURCHASES",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
-            },
-            {
-              "description": "Vulgärsprache",
-              "name": "PEGI_LANGUAGE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
-            },
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_18",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
-        },
-        "conceptId": 202806,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/202806",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "SHOOTER",
-          "ACTION",
-          "SHOOTER"
-        ],
-        "imageUrl": "https://image.api.playstation.com/cdn/EP4062/CUSA00593_00/74C5XBvmTgxNNjvECPxlj8tC639xS0WR.png",
-        "name": "Metro Redux",
-        "nameEn": "Metro Redux",
-        "productId": "EP4062-CUSA00593_00-MCOMPLREDUXDISC1",
-        "releaseDate": "2014-08-28T22:00:00Z",
-        "streamingSupported": false
+        "streamingSupported": true
       },
       {
         "ageRating": {
@@ -5510,8 +5464,8 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2813/OR4HwTYY1fUjHtPVgtYHtRcg.png",
         "name": "Worms Armageddon [PS1 Emulation]",
         "nameEn": "Worms Armageddon [PS1 Emulation]",
-        "productId": "EP4064-PPSA07308_00-SLES022170000000",
-        "releaseDate": "2025-07-24T09:00:00Z",
+        "productId": "EP4064-CUSA33245_00-SLES022170000000",
+        "releaseDate": "2022-06-22T23:00:00Z",
         "streamingSupported": true
       },
       {
@@ -5598,8 +5552,8 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0716/e41d253b508f813b83efe92920a463d24fcfd40f93061bb5.png",
         "name": "Worms [PS1 Emulation]",
         "nameEn": "Worms [PS1 Emulation]",
-        "productId": "EP4064-CUSA33243_00-SLES001190000000",
-        "releaseDate": "2023-06-20T08:00:00Z",
+        "productId": "EP4064-PPSA07306_00-SLES001190000000",
+        "releaseDate": "2025-07-24T09:00:00Z",
         "streamingSupported": true
       }
     ]
