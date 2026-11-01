@@ -636,8 +636,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
-          "ROLE_PLAYING_GAMES"
+          "ROLE_PLAYING_GAMES",
+          "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP9000/CUSA02075_00/STtOaaItXcREcV8ZkuDWQgzF1sBHua98.png",
         "name": "Dark Chronicle™",
@@ -675,8 +675,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
-          "ROLE_PLAYING_GAMES"
+          "ROLE_PLAYING_GAMES",
+          "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP9000/CUSA01944_00/f1YxOhlpUaQjHK8kNnRcT3DjL6jZHANn.png",
         "name": "Dark Cloud™",
@@ -1281,8 +1281,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
           "ADVENTURE",
+          "ACTION",
           "ADVENTURE"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP1628/CUSA05760_00/OZ2SNmLyTghsCbSf8ZtcpKGmvV1kv1Fi.png",
@@ -1308,8 +1308,8 @@
           "PS4"
         ],
         "genre": [
-          "PUZZLE",
-          "UNIQUE"
+          "UNIQUE",
+          "PUZZLE"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP9000/CUSA01949_00/gHCxOb3pkaOeqU3IgaJWumTeWgw6GPyl.png",
         "name": "FantaVision",
@@ -1409,8 +1409,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
           "ARCADE",
+          "ACTION",
           "FIGHTING"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP0576/CUSA05993_00/nhBux8Cf19n9PECfDQgmx3pM86UTJmNn.png",
@@ -1512,8 +1512,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
-          "ADVENTURE"
+          "ADVENTURE",
+          "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0711/p8JCvA8692BICXAPoyylh7ed.png",
         "name": "God of War® III Remastered",
@@ -1639,8 +1639,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
-          "ADVENTURE"
+          "ADVENTURE",
+          "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2320/2lfQr4uLgI8usrz5anG6a9wC.png",
         "name": "Gravity Rush™ Remastered",
@@ -1742,8 +1742,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
-          "ADVENTURE"
+          "ADVENTURE",
+          "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0518/rfaNTagTT8uQV0YfxNNLbzr0.png",
         "name": "Heavy Rain™",
@@ -1857,9 +1857,9 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
+          "SHOOTER",
           "ADVENTURE",
-          "SHOOTER"
+          "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP9000/CUSA07991_00/1Tngm7FrN2DQb30iDkNzz8LS6r9W71IL.png",
         "name": "Jak 3™",
@@ -1963,8 +1963,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
           "ADVENTURE",
+          "ACTION",
           "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP9000/CUSA07990_00/PDXfEyJt3Ux4Ht21eDwOxollEuXvJVn5.png",
@@ -2003,8 +2003,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
           "RACING",
+          "ACTION",
           "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP9000/CUSA07992_00/4vvIrTHnwvjXnG1HUogV2orQgQ6AIFIz.png",
@@ -2491,9 +2491,9 @@
           "PS4"
         ],
         "genre": [
-          "CASUAL",
+          "PUZZLE",
           "FAMILY",
-          "PUZZLE"
+          "CASUAL"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP0748/CUSA11647_00/izdWhKwBGScHwmpklKmTiwZQfX69Z7yM.png",
         "name": "LUMINES REMASTERED",
@@ -2706,8 +2706,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
           "ADVENTURE",
+          "ACTION",
           "ROLE_PLAYING_GAMES"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP1457/CUSA03263_00/D4ixQ0Cyc3t5yiemRU1AoJBuW6v2iowm.png",
@@ -3005,8 +3005,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
           "ADVENTURE",
+          "ACTION",
           "ADVENTURE"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/UP4008/CUSA07476_00/XO81bpOmmO9Rs9APRkDzlf6I1SUs5eAm.png",
@@ -3136,8 +3136,8 @@
         ],
         "genre": [
           "ACTION",
-          "ADVENTURE",
-          "MUSIC/RHYTHM"
+          "MUSIC/RHYTHM",
+          "ADVENTURE"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP9000/CUSA07285_00/LxyyiLIqCUdfDlYrHHwvxRRz4Vc15qng.png",
         "name": "Patapon™ Remastered",
@@ -3196,8 +3196,8 @@
         ],
         "genre": [
           "ADVENTURE",
-          "ACTION",
-          "ADVENTURE"
+          "ADVENTURE",
+          "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP9000/CUSA02077_00/s3d6AWNbTx56d9djDifTkv80igMAbsEt.png",
         "name": "Primal",
@@ -3337,8 +3337,8 @@
           "PS4"
         ],
         "genre": [
-          "ARCADE",
           "SHOOTER",
+          "ARCADE",
           "SHOOTER"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP2038/CUSA14559_00/1uqqgyAEQlbAVd4geYGjScKo3HWRVSVL.png",
@@ -3403,8 +3403,8 @@
           "PS4"
         ],
         "genre": [
-          "ADVENTURE",
           "ROLE_PLAYING_GAMES",
+          "ADVENTURE",
           "ROLE_PLAYING_GAMES"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP2005/CUSA03436_00/G6Nbc4NowufL52qJ0xkdJrdLX6U6MLUN.png",
@@ -3747,9 +3747,9 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
+          "ROLE_PLAYING_GAMES",
           "ADVENTURE",
-          "ROLE_PLAYING_GAMES"
+          "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP9000/CUSA02271_00/Z4FQFEd7bCJiIHHE0LCuMl9Tuo9h8ZVl.png",
         "name": "Rogue Galaxy™",
@@ -4190,8 +4190,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
           "ADVENTURE",
+          "ACTION",
           "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP1006/CUSA03494_00/9MsXVY5UULzSHB5BTreuKhwep3KZwvQP.png",
@@ -4224,8 +4224,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
           "ADVENTURE",
+          "ACTION",
           "RACING"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP1006/CUSA03492_00/XSgqQlQDZWoJGlstxAmiRdM4C7sFmse1.png",
@@ -4771,8 +4771,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
-          "ADVENTURE"
+          "ADVENTURE",
+          "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP9000/CUSA01945_00/ytgJUDiPElmgxpjbUuMY40NDCl0rxTDc.png",
         "name": "The Mark of Kri",
@@ -4804,8 +4804,8 @@
           "PS4"
         ],
         "genre": [
-          "ADVENTURE",
           "FAMILY",
+          "ADVENTURE",
           "ADVENTURE"
         ],
         "imageUrl": "https://image.api.playstation.com/cdn/EP4389/CUSA08953_00/brbuDul8KINJrO5FnQ5WYL5fpspKgieJ.png",
@@ -4859,8 +4859,8 @@
           "PS5"
         ],
         "genre": [
-          "ACTION",
-          "STRATEGY"
+          "STRATEGY",
+          "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1621/0f0e2a9a0b0bf135d7127695b81625196f37d76d33606910.png",
         "name": "Thrillville: Off the Rails",
@@ -5218,8 +5218,8 @@
           "PS4"
         ],
         "genre": [
-          "ACTION",
-          "ADVENTURE"
+          "ADVENTURE",
+          "ACTION"
         ],
         "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1101/zC3kulm2Ho3ZE38ZUYHW7WMK.png",
         "name": "Uncharted™: The Nathan Drake Collection",
@@ -5552,8 +5552,8 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0716/e41d253b508f813b83efe92920a463d24fcfd40f93061bb5.png",
         "name": "Worms [PS1 Emulation]",
         "nameEn": "Worms [PS1 Emulation]",
-        "productId": "EP4064-PPSA07306_00-SLES001190000000",
-        "releaseDate": "2025-07-24T09:00:00Z",
+        "productId": "EP4064-CUSA33243_00-SLES001190000000",
+        "releaseDate": "2023-06-20T08:00:00Z",
         "streamingSupported": true
       }
     ]
