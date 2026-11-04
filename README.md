@@ -16,10 +16,9 @@ sync, so it always reflects the current monthly line-up.
 
 | Cover | Game | Platforms | Genre |
 | --- | --- | --- | --- |
-| <a href="https://store.playstation.com/de-at/concept/10008165"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/e9b205a3007e3dab6c7e35d9a18a580393450c7abf15d048.png" width="120" alt="EARTH DEFENSE FORCE: WORLD BROTHERS 2　PS4 &amp; PS5"></a> | [EARTH DEFENSE FORCE: WORLD BROTHERS 2　PS4 & PS5](https://store.playstation.com/de-at/concept/10008165) | PS4, PS5 | Action |
-| <a href="https://store.playstation.com/de-at/concept/10011830"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202505/1521/44c15449fbe9485987e27e2fa2c86008a7b4a89d9ab7e0a8.png" width="120" alt="F1® 25"></a> | [F1® 25](https://store.playstation.com/de-at/concept/10011830) | PS5 | Racing |
-| <a href="https://store.playstation.com/de-at/concept/234014"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202610/0715/8d589eb7d8efc65df7430505f95c270040659e6d75fcb13c.png" width="120" alt="Hunt: Showdown 1896"></a> | [Hunt: Showdown 1896](https://store.playstation.com/de-at/concept/234014) | PS5 | Shooter, Action |
-| <a href="https://store.playstation.com/de-at/concept/234014"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202608/0612/f0d1886b7061d7ab5e084580a3e29cc3910e2644f357fbb5.png" width="120" alt="Hunt: Showdown 1896 – Starter Pack for PlayStation®Plus – Among Crimson Shadows"></a> | [Hunt: Showdown 1896 – Starter Pack for PlayStation®Plus – Among Crimson Shadows](https://store.playstation.com/de-at/concept/234014) | PS5 | Shooter, Action |
+| <a href="https://store.playstation.com/de-at/concept/201061"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202208/1012/V6WJkRhfNIQ3ePfAmrLSfGng.png" width="120" alt="Dead Island 2"></a> | [Dead Island 2](https://store.playstation.com/de-at/concept/201061) | PS5, PS4 | Action |
+| <a href="https://store.playstation.com/de-at/concept/10012399"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202502/1815/3ea7456f6925d14bd479d7b9bd251be1575e0e5fc37ad88d.png" width="120" alt="Monster Train 2"></a> | [Monster Train 2](https://store.playstation.com/de-at/concept/10012399) | PS5 | Strategy |
+| <a href="https://store.playstation.com/de-at/concept/10009064"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/c785b0366d8f84a18dd17a0d046fdee92ccd6195d79c81a1.png" width="120" alt="Tomb Raider IV-VI Remastered PS4 &amp; PS5"></a> | [Tomb Raider IV-VI Remastered PS4 & PS5](https://store.playstation.com/de-at/concept/10009064) | PS4, PS5 | Action |
 
 <!-- END MONTHLY GAMES -->
 

@@ -16,83 +16,64 @@
   },
   {
     "catalogKey": "D",
+    "count": 1,
+    "games": [
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 18",
+          "descriptors": [
+            {
+              "description": "Extreme Gewalt",
+              "name": "PEGI_EXTREME_VIOLENCE"
+            },
+            {
+              "description": "Kraftausdrücke",
+              "name": "PEGI_STRONG_LANGUAGE"
+            }
+          ],
+          "interactiveElements": [
+            {
+              "description": "In-Game-Käufe",
+              "name": "PEGI_IN_GAME_PURCHASES"
+            },
+            {
+              "description": "Nutzerinteraktion",
+              "name": "PEGI_USERS_INTERACT"
+            }
+          ],
+          "name": "PEGI_18",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
+        },
+        "conceptId": 201061,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/201061",
+        "device": [
+          "PS5",
+          "PS4"
+        ],
+        "genre": [
+          "ACTION",
+          "ACTION"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1012/V6WJkRhfNIQ3ePfAmrLSfGng.png",
+        "name": "Dead Island 2",
+        "nameEn": "Dead Island 2",
+        "productId": "EP4062-PPSA03099_00-DI2MAINSIEEPS500",
+        "releaseDate": "2023-04-20T22:00:00Z",
+        "streamingSupported": true
+      }
+    ]
+  },
+  {
+    "catalogKey": "E",
     "count": 0,
     "games": []
   },
   {
-    "catalogKey": "E",
-    "count": 1,
-    "games": [
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 12",
-          "descriptors": [
-            {
-              "description": "Moderate Gewalt",
-              "name": "PEGI_MODERATE_VIOLENCE"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_12",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/12.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/12.png"
-        },
-        "conceptId": 10008165,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10008165",
-        "device": [
-          "PS4",
-          "PS5"
-        ],
-        "genre": [
-          "ACTION"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/e9b205a3007e3dab6c7e35d9a18a580393450c7abf15d048.png",
-        "name": "EARTH DEFENSE FORCE: WORLD BROTHERS 2　PS4 & PS5",
-        "nameEn": "EARTH DEFENSE FORCE: WORLD BROTHERS 2　PS4 & PS5",
-        "productId": "EP3036-PPSA15928_00-EDFWORLDBROTHER2",
-        "releaseDate": "2024-09-25T22:00:00Z",
-        "streamingSupported": true
-      }
-    ]
-  },
-  {
     "catalogKey": "F",
-    "count": 1,
-    "games": [
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 3",
-          "descriptors": [
-            {
-              "description": "In-Game Purchases",
-              "name": "PEGI_IN_GAME_PURCHASES",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_3",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/3.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/3.png"
-        },
-        "conceptId": 10011830,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10011830",
-        "device": [
-          "PS5"
-        ],
-        "genre": [
-          "RACING"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1521/44c15449fbe9485987e27e2fa2c86008a7b4a89d9ab7e0a8.png",
-        "name": "F1® 25",
-        "nameEn": "F1® 25",
-        "productId": "UP0006-PPSA24662_00-F12025PS5GAME000",
-        "releaseDate": "2025-05-30T15:00:00Z",
-        "streamingSupported": true
-      }
-    ]
+    "count": 0,
+    "games": []
   },
   {
     "catalogKey": "G",
@@ -101,89 +82,8 @@
   },
   {
     "catalogKey": "H",
-    "count": 2,
-    "games": [
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 18",
-          "descriptors": [
-            {
-              "description": "In-Game Purchases",
-              "name": "PEGI_IN_GAME_PURCHASES",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
-            },
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_18",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
-        },
-        "conceptId": 234014,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/234014",
-        "device": [
-          "PS5"
-        ],
-        "genre": [
-          "SHOOTER",
-          "SHOOTER",
-          "ACTION"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0715/8d589eb7d8efc65df7430505f95c270040659e6d75fcb13c.png",
-        "name": "Hunt: Showdown 1896",
-        "nameEn": "Hunt: Showdown 1896",
-        "productId": "EP4291-PPSA16357_00-0286411811680806",
-        "releaseDate": "2024-08-15T07:00:00Z",
-        "streamingSupported": true
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 18",
-          "descriptors": [
-            {
-              "description": "In-Game Purchases",
-              "name": "PEGI_IN_GAME_PURCHASES",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
-            },
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_18",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
-        },
-        "conceptId": 234014,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/234014",
-        "device": [
-          "PS5"
-        ],
-        "genre": [
-          "SHOOTER",
-          "SHOOTER",
-          "ACTION"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0612/f0d1886b7061d7ab5e084580a3e29cc3910e2644f357fbb5.png",
-        "name": "Hunt: Showdown 1896 – Starter Pack for PlayStation®Plus – Among Crimson Shadows",
-        "nameEn": "Hunt: Showdown 1896 – Starter Pack for PlayStation®Plus – Among Crimson Shadows",
-        "productId": "EP4291-PPSA16357_00-THEHUNTGAME00083",
-        "releaseDate": "2026-10-06T08:00:00Z",
-        "streamingSupported": false
-      }
-    ]
+    "count": 0,
+    "games": []
   },
   {
     "catalogKey": "I",
@@ -207,8 +107,39 @@
   },
   {
     "catalogKey": "M",
-    "count": 0,
-    "games": []
+    "count": 1,
+    "games": [
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 7",
+          "descriptors": [
+            {
+              "description": "Gemäßigte Gewalt",
+              "name": "PEGI_MILD_VIOLENCE"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_7",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/7.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/7.png"
+        },
+        "conceptId": 10012399,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10012399",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "STRATEGY"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1815/3ea7456f6925d14bd479d7b9bd251be1575e0e5fc37ad88d.png",
+        "name": "Monster Train 2",
+        "nameEn": "Monster Train 2",
+        "productId": "EP8909-PPSA25758_00-0047300101977880",
+        "releaseDate": "2025-05-21T14:00:00Z",
+        "streamingSupported": false
+      }
+    ]
   },
   {
     "catalogKey": "N",
@@ -242,8 +173,42 @@
   },
   {
     "catalogKey": "T",
-    "count": 0,
-    "games": []
+    "count": 1,
+    "games": [
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 16",
+          "descriptors": [
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_16",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
+        },
+        "conceptId": 10009064,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10009064",
+        "device": [
+          "PS4",
+          "PS5"
+        ],
+        "genre": [
+          "ACTION"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/c785b0366d8f84a18dd17a0d046fdee92ccd6195d79c81a1.png",
+        "name": "Tomb Raider IV-VI Remastered PS4 & PS5",
+        "nameEn": "Tomb Raider IV-VI Remastered PS4 & PS5",
+        "productId": "EP1875-PPSA18151_00-TOMBRAIDER456225",
+        "releaseDate": "2025-02-14T15:00:00Z",
+        "streamingSupported": true
+      }
+    ]
   },
   {
     "catalogKey": "U",
