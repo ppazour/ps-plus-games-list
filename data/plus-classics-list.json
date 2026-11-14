@@ -2708,8 +2708,7 @@
         "conceptId": 202807,
         "conceptUrl": "https://store.playstation.com/de-at/concept/202807",
         "device": [
-          "PS4",
-          "PS5"
+          "PS4"
         ],
         "genre": [
           "SHOOTER",
@@ -2719,8 +2718,8 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0908/4c217e661408017edc10e775d9fd6c74d17246395e10b338.png",
         "name": "METRO 2033 Redux",
         "nameEn": "METRO 2033 Redux",
-        "productId": "EP4062-PPSA38292_00-METRO2033R0PS5WW",
-        "releaseDate": "2026-10-29T16:00:00Z",
+        "productId": "EP4062-CUSA00591_00-M33REDUXDIGITAL1",
+        "releaseDate": "2015-06-01T22:00:00Z",
         "streamingSupported": true
       },
       {

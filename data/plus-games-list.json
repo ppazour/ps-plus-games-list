@@ -1489,7 +1489,7 @@
           "ARCADE",
           "ACTION"
         ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0616/83415751927d95046612da39ab5f997a0416087b402220fc.png",
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1322/ed38f43e59207b000be12dd171ef864936a85d323b736a8a.png",
         "name": "BALL x PIT",
         "nameEn": "BALL x PIT",
         "productId": "UP3643-PPSA31872_00-0512776704708419",
@@ -6785,8 +6785,7 @@
         "conceptId": 10000886,
         "conceptUrl": "https://store.playstation.com/de-at/concept/10000886",
         "device": [
-          "PS4",
-          "PS5"
+          "PS4"
         ],
         "genre": [
           "ACTION"
@@ -6794,9 +6793,9 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/9v9q3P2LuokLyI0Tsp4hHq9G.png",
         "name": "Horizon Forbidden West™",
         "nameEn": "Horizon Forbidden West™",
-        "productId": "EP9000-PPSA01521_00-FORBIDDENWESTPS5",
+        "productId": "EP9000-CUSA24705_00-FORBIDDENWESTPS4",
         "releaseDate": "2022-02-17T23:00:00Z",
-        "streamingSupported": true
+        "streamingSupported": false
       },
       {
         "ageRating": {
@@ -6910,12 +6909,16 @@
           "description": "PEGI 16",
           "descriptors": [
             {
-              "description": "Intensive Gewalt",
-              "name": "PEGI_STRONG_VIOLENCE"
+              "description": "Vulgärsprache",
+              "name": "PEGI_LANGUAGE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
             },
             {
-              "description": "Kraftausdrücke",
-              "name": "PEGI_STRONG_LANGUAGE"
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
             }
           ],
           "interactiveElements": [],
@@ -6923,21 +6926,22 @@
           "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
           "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
         },
-        "conceptId": 10005940,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10005940",
+        "conceptId": 202006,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/202006",
         "device": [
-          "PS4",
-          "PS5"
+          "PS4"
         ],
         "genre": [
+          "ACTION",
+          "ACTION",
           "ACTION"
         ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/1318/31633b753add90ce0d9c17ba4ebad3969104e44e83e303d6.png",
+        "imageUrl": "https://image.api.playstation.com/cdn/EP3643/CUSA00528_00/7VFswNq3kPqEoIb5xyfZL2YFNHO2aoTD.png",
         "name": "Hotline Miami",
         "nameEn": "Hotline Miami",
-        "productId": "EP3643-PPSA09683_00-7596522310430398",
-        "releaseDate": "2023-10-23T16:00:00Z",
-        "streamingSupported": true
+        "productId": "EP3643-CUSA00528_00-HOTLINEMIAMIBNDL",
+        "releaseDate": "2014-08-19T22:00:00Z",
+        "streamingSupported": false
       },
       {
         "ageRating": {
@@ -10446,7 +10450,7 @@
         "conceptId": 10009028,
         "conceptUrl": "https://store.playstation.com/de-at/concept/10009028",
         "device": [
-          "PS5"
+          "PS4"
         ],
         "genre": [
           "HORROR"
@@ -10454,9 +10458,9 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2416/f4c095be7b000a29b298dda4b8a1c28f472466b25f44f1f7.png",
         "name": "Poppy Playtime: Chapter 1",
         "nameEn": "Poppy Playtime: Chapter 1",
-        "productId": "EP8293-PPSA20591_00-0571511008440793",
+        "productId": "EP8293-CUSA46876_00-0762588869730386",
         "releaseDate": "2024-01-15T14:00:00Z",
-        "streamingSupported": true
+        "streamingSupported": false
       },
       {
         "ageRating": {
@@ -10482,7 +10486,7 @@
         "conceptId": 10010437,
         "conceptUrl": "https://store.playstation.com/de-at/concept/10010437",
         "device": [
-          "PS5"
+          "PS4"
         ],
         "genre": [
           "HORROR"
@@ -10490,9 +10494,9 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2820/7981c9f8f122ac08d5febb8b883578b895300f8248f8cb1a.png",
         "name": "Poppy Playtime: Chapter 2",
         "nameEn": "Poppy Playtime: Chapter 2",
-        "productId": "UP8103-PPSA21631_00-0349038686339467",
+        "productId": "UP8103-CUSA47693_00-0734550977773698",
         "releaseDate": "2024-09-20T14:00:00Z",
-        "streamingSupported": true
+        "streamingSupported": false
       },
       {
         "ageRating": {
