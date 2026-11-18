@@ -1283,7 +1283,7 @@
   },
   {
     "catalogKey": "F",
-    "count": 3,
+    "count": 4,
     "games": [
       {
         "ageRating": {
@@ -1386,6 +1386,39 @@
         "nameEn": "Forbidden Siren",
         "productId": "UP9000-PPSA22947_00-SCUS973550000000",
         "releaseDate": "2024-10-15T08:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 16",
+          "descriptors": [
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_16",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
+        },
+        "conceptId": 10011083,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10011083",
+        "device": [
+          "PS4",
+          "PS5"
+        ],
+        "genre": [
+          "ACTION"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/0409/ac0710144bc0e2854c0ebc6c9544e0f415d1f7b590ef0826.png",
+        "name": "FREEDOM WARS Remastered PS4 & PS5",
+        "nameEn": "FREEDOM WARS Remastered PS4 & PS5",
+        "productId": "JP0700-PPSA23221_00-MAINGAME00000000",
+        "releaseDate": "2025-01-09T23:00:00Z",
         "streamingSupported": true
       }
     ]
@@ -2708,7 +2741,8 @@
         "conceptId": 202807,
         "conceptUrl": "https://store.playstation.com/de-at/concept/202807",
         "device": [
-          "PS4"
+          "PS4",
+          "PS5"
         ],
         "genre": [
           "SHOOTER",
@@ -2718,8 +2752,8 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0908/4c217e661408017edc10e775d9fd6c74d17246395e10b338.png",
         "name": "METRO 2033 Redux",
         "nameEn": "METRO 2033 Redux",
-        "productId": "EP4062-CUSA00591_00-M33REDUXDIGITAL1",
-        "releaseDate": "2015-06-01T22:00:00Z",
+        "productId": "EP4062-PPSA38292_00-METRO2033R0PS5WW",
+        "releaseDate": "2026-10-29T16:00:00Z",
         "streamingSupported": true
       },
       {
@@ -3922,7 +3956,7 @@
   },
   {
     "catalogKey": "S",
-    "count": 22,
+    "count": 23,
     "games": [
       {
         "ageRating": {
@@ -4098,6 +4132,37 @@
         "nameEn": "Sly Raccoon™",
         "productId": "UP9000-PPSA21300_00-SCUS971980000000",
         "releaseDate": "2024-06-11T08:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 16",
+          "descriptors": [
+            {
+              "description": "Intensive Gewalt",
+              "name": "PEGI_STRONG_VIOLENCE"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_16",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
+        },
+        "conceptId": 10013858,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10013858",
+        "device": [
+          "PS4",
+          "PS5"
+        ],
+        "genre": [
+          "ACTION"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0712/34a8ca5c16ad9bdaa0b364526a71862491bdb6952e6a067f.png",
+        "name": "Soul Reaver 2",
+        "nameEn": "Soul Reaver 2",
+        "productId": "UP8489-PPSA28003_00-0082415705264156",
+        "releaseDate": "2026-11-17T09:00:00Z",
         "streamingSupported": true
       },
       {
@@ -5679,8 +5744,8 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0716/e41d253b508f813b83efe92920a463d24fcfd40f93061bb5.png",
         "name": "Worms [PS1 Emulation]",
         "nameEn": "Worms [PS1 Emulation]",
-        "productId": "EP4064-CUSA33243_00-SLES001190000000",
-        "releaseDate": "2023-06-20T08:00:00Z",
+        "productId": "EP4064-PPSA07306_00-SLES001190000000",
+        "releaseDate": "2025-07-24T09:00:00Z",
         "streamingSupported": true
       }
     ]

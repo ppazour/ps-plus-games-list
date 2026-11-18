@@ -1,7 +1,7 @@
 [
   {
     "catalogKey": "A",
-    "count": 36,
+    "count": 37,
     "games": [
       {
         "ageRating": {
@@ -130,7 +130,7 @@
         "conceptId": 10005843,
         "conceptUrl": "https://store.playstation.com/de-at/concept/10005843",
         "device": [
-          "PS5"
+          "PS4"
         ],
         "genre": [
           "ADVENTURE"
@@ -138,9 +138,9 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1606/oXtps1uT1x0cAMxa6r1FtkhQ.png",
         "name": "A Space for the Unbound",
         "nameEn": "A Space for the Unbound",
-        "productId": "EP5438-PPSA12231_00-3012350012863551",
+        "productId": "EP5438-CUSA39157_00-6085943575502208",
         "releaseDate": "2023-01-18T23:00:00Z",
-        "streamingSupported": true
+        "streamingSupported": false
       },
       {
         "ageRating": {
@@ -1340,6 +1340,45 @@
         "nameEn": "Atlas Fallen: Reign of Sand",
         "productId": "EP4133-PPSA03388_00-AFREIGNOFSANDEE0",
         "releaseDate": "2024-08-06T16:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 18",
+          "descriptors": [
+            {
+              "description": "In-Game Purchases",
+              "name": "PEGI_IN_GAME_PURCHASES",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
+            },
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_18",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
+        },
+        "conceptId": 10007896,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10007896",
+        "device": [
+          "PS5",
+          "PS4"
+        ],
+        "genre": [
+          "ADVENTURE"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/0709/b2ee4642335bdc52702636666f5dd4af74a50ea71987f7c9.png",
+        "name": "Atomfall PS4™ & PS5™",
+        "nameEn": "Atomfall PS4™ & PS5™",
+        "productId": "UP4363-PPSA15493_00-ATOMFALLBASEGAME",
+        "releaseDate": "2025-03-27T14:00:00Z",
         "streamingSupported": true
       },
       {
@@ -3054,8 +3093,8 @@
           "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/3.png",
           "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/3.png"
         },
-        "conceptId": 10008264,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10008264",
+        "conceptId": 10013889,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10013889",
         "device": [
           "PS4",
           "PS5"
@@ -3063,11 +3102,11 @@
         "genre": [
           "SPORTS"
         ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0813/81ab4b5e5fc8aeba84d3ce3fb7aeede9f00bbab93d9c9c60.png",
-        "name": "Cricket 24",
-        "nameEn": "Cricket 24",
-        "productId": "EP6665-PPSA16342_00-C240000000000000",
-        "releaseDate": "2023-10-04T13:00:00Z",
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1410/eade5a7a3e4292d77b5c60771f68c45870f8b6c33058c74b.png",
+        "name": "Cricket 26 - The Official Game of the Ashes",
+        "nameEn": "Cricket 26 - The Official Game of the Ashes",
+        "productId": "EP6665-PPSA28053_00-C260000000000000",
+        "releaseDate": "2025-11-19T14:00:00Z",
         "streamingSupported": true
       },
       {
@@ -3240,7 +3279,7 @@
   },
   {
     "catalogKey": "D",
-    "count": 31,
+    "count": 33,
     "games": [
       {
         "ageRating": {
@@ -3614,6 +3653,44 @@
         "productId": "EP9000-CUSA12605_00-DEATHSTRAND00001",
         "releaseDate": "2019-11-07T23:00:00Z",
         "streamingSupported": false
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 18",
+          "descriptors": [
+            {
+              "description": "Vulgärsprache",
+              "name": "PEGI_LANGUAGE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
+            },
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_18",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
+        },
+        "conceptId": 10001538,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10001538",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "ACTION"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2711/cbc6c3135660ec68eacc766959a766b36d7ce3fa6010ca88.png",
+        "name": "DEATH STRANDING 2: ON THE BEACH",
+        "nameEn": "DEATH STRANDING 2: ON THE BEACH",
+        "productId": "JP9000-PPSA02015_00-DS2OTB0000000001",
+        "releaseDate": "2025-06-25T22:00:00Z",
+        "streamingSupported": true
       },
       {
         "ageRating": {
@@ -4105,6 +4182,38 @@
           "description": "PEGI 12",
           "descriptors": [
             {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_12",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/12.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/12.png"
+        },
+        "conceptId": 10010018,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10010018",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "ROLE_PLAYING_GAMES"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1508/2d8a60c46eb99acc83c22ebd4024acec0beee526c5acb0cf.png",
+        "name": "DRAGON QUEST III HD-2D Remake",
+        "nameEn": "DRAGON QUEST III HD-2D Remake",
+        "productId": "EP0082-PPSA20613_00-00000000000000EU",
+        "releaseDate": "2024-11-13T23:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 12",
+          "descriptors": [
+            {
               "description": "Angst",
               "name": "PEGI_FEAR",
               "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/fear.png",
@@ -4409,7 +4518,7 @@
   },
   {
     "catalogKey": "E",
-    "count": 17,
+    "count": 16,
     "games": [
       {
         "ageRating": {
@@ -4443,52 +4552,6 @@
         "nameEn": "Eagle Flight",
         "productId": "EP0001-CUSA04876_00-EAGLEFLIGHTGAME0",
         "releaseDate": "2017-01-23T23:00:00Z",
-        "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 12",
-          "descriptors": [
-            {
-              "description": "Vulgärsprache",
-              "name": "PEGI_LANGUAGE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
-            },
-            {
-              "description": "Online",
-              "name": "PEGI_ONLINE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/online.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/online.png"
-            },
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_12",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/12.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/12.png"
-        },
-        "conceptId": 201415,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/201415",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "ADVENTURE",
-          "ACTION",
-          "ACTION"
-        ],
-        "imageUrl": "https://image.api.playstation.com/cdn/EP4293/CUSA03467_00/82YhyWqff24ZsBKCnWwcQCNmrBBiqBYx.png",
-        "name": "Earth Defense Force 4.1: The Shadow of New Despair",
-        "nameEn": "Earth Defense Force 4.1: The Shadow of New Despair",
-        "productId": "EP4293-CUSA03467_00-EARTHDEFENSEFO41",
-        "releaseDate": "2016-02-11T23:00:00Z",
         "streamingSupported": false
       },
       {
@@ -5992,7 +6055,7 @@
   },
   {
     "catalogKey": "G",
-    "count": 14,
+    "count": 13,
     "games": [
       {
         "ageRating": {
@@ -6296,33 +6359,6 @@
       {
         "ageRating": {
           "authority": "PEGI",
-          "description": "PEGI 18",
-          "descriptors": [],
-          "interactiveElements": [],
-          "name": "PEGI_18",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
-        },
-        "conceptId": 201930,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/201930",
-        "device": [
-          "PS4",
-          "PS5"
-        ],
-        "genre": [
-          "ADVENTURE",
-          "ACTION"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1409/oltI7Zc96usbdvhVVXcV1EAi.png",
-        "name": "Grand Theft Auto V (PS4™ & PS5™)",
-        "nameEn": "Grand Theft Auto V (PS4™ & PS5™)",
-        "productId": "EP1004-PPSA01721_00-GTAVCROSSGENBUND",
-        "releaseDate": "2022-06-16T00:00:00Z",
-        "streamingSupported": true
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
           "description": "PEGI 12",
           "descriptors": [
             {
@@ -6551,6 +6587,38 @@
         "nameEn": "Hell is Us",
         "productId": "EP6665-PPSA09259_00-HIU0000000000000",
         "releaseDate": "2025-09-04T08:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 16",
+          "descriptors": [
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_16",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
+        },
+        "conceptId": 10001996,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10001996",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "SHOOTER"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2316/86150b8e592e33e766539e1f4250ec79f097b8bd02509381.png",
+        "name": "Hell Let Loose",
+        "nameEn": "Hell Let Loose",
+        "productId": "EP4064-PPSA02421_00-4832440202735862",
+        "releaseDate": "2021-10-04T22:00:00Z",
         "streamingSupported": true
       },
       {
@@ -6973,36 +7041,6 @@
         "productId": "EP3643-PPSA11357_00-2869729547021412",
         "releaseDate": "2023-10-23T16:00:00Z",
         "streamingSupported": true
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 7",
-          "descriptors": [
-            {
-              "description": "Gemäßigte Gewalt",
-              "name": "PEGI_MILD_VIOLENCE"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_7",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/7.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/7.png"
-        },
-        "conceptId": 231863,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/231863",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "RACING"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1116/8oLdhsOuqG5AYSiT3bxQ4bpk.png",
-        "name": "Hotshot Racing",
-        "nameEn": "Hotshot Racing",
-        "productId": "EP4395-CUSA11573_00-0000000000000001",
-        "releaseDate": "2020-08-12T22:00:00Z",
-        "streamingSupported": false
       },
       {
         "ageRating": {
@@ -7742,7 +7780,7 @@
   },
   {
     "catalogKey": "L",
-    "count": 14,
+    "count": 15,
     "games": [
       {
         "ageRating": {
@@ -8192,6 +8230,58 @@
         "nameEn": "Like a Dragon: Infinite Wealth PS4 & PS5",
         "productId": "EP0177-PPSA06436_00-LIKEADRAGON80000",
         "releaseDate": "2024-01-25T23:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 18",
+          "descriptors": [
+            {
+              "description": "Glücksspiel",
+              "name": "PEGI_GAMBLING",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/gambling.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/gambling.png"
+            },
+            {
+              "description": "In-Game Purchases",
+              "name": "PEGI_IN_GAME_PURCHASES",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
+            },
+            {
+              "description": "Vulgärsprache",
+              "name": "PEGI_LANGUAGE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
+            },
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_18",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
+        },
+        "conceptId": 10011704,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10011704",
+        "device": [
+          "PS4",
+          "PS5"
+        ],
+        "genre": [
+          "ADVENTURE",
+          "ACTION"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1401/5cbfb4502807fef739169f7e9bdd0cd615d7a86ce4e6af82.png",
+        "name": "Like a Dragon: Pirate Yakuza in Hawaii PS4 & PS5",
+        "nameEn": "Like a Dragon: Pirate Yakuza in Hawaii PS4 & PS5",
+        "productId": "JP0177-PPSA24478_00-MAINGAME00000000",
+        "releaseDate": "2025-02-20T23:00:00Z",
         "streamingSupported": true
       },
       {
@@ -8869,39 +8959,6 @@
       {
         "ageRating": {
           "authority": "PEGI",
-          "description": "PEGI 7",
-          "descriptors": [
-            {
-              "description": "Gemäßigte Gewalt",
-              "name": "PEGI_MILD_VIOLENCE"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_7",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/7.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/7.png"
-        },
-        "conceptId": 217487,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/217487",
-        "device": [
-          "PS4",
-          "PS5"
-        ],
-        "genre": [
-          "ACTION",
-          "ADVENTURE",
-          "ACTION"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/3113/Y912qTmnEDRKRRFeU5YBjQqv.png",
-        "name": "Monster Boy and the Cursed Kingdom",
-        "nameEn": "Monster Boy and the Cursed Kingdom",
-        "productId": "EP0757-PPSA02786_00-7275526884715451",
-        "releaseDate": "2021-12-02T00:00:00Z",
-        "streamingSupported": true
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
           "description": "PEGI 3",
           "descriptors": [
             {
@@ -9219,6 +9276,39 @@
         "nameEn": "Mortal Kombat™ 1",
         "productId": "EP1018-PPSA07571_00-MKONE00000000000",
         "releaseDate": "2023-09-18T22:00:00Z",
+        "streamingSupported": true
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 3",
+          "descriptors": [
+            {
+              "description": "In-Game Purchases",
+              "name": "PEGI_IN_GAME_PURCHASES",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_3",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/3.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/3.png"
+        },
+        "conceptId": 10016581,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10016581",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "SPORTS",
+          "RACING"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2015/bb1ac61cfe78e0f00e4ee4b3112050f93d6978a150c59cda.png",
+        "name": "MotoGP™26",
+        "nameEn": "MotoGP™26",
+        "productId": "EP4356-PPSA32557_00-MOTOGP26FULLGAME",
+        "releaseDate": "2026-04-28T22:00:00Z",
         "streamingSupported": true
       },
       {
@@ -10683,7 +10773,7 @@
   },
   {
     "catalogKey": "R",
-    "count": 22,
+    "count": 21,
     "games": [
       {
         "ageRating": {
@@ -11002,58 +11092,6 @@
         "nameEn": "Rebel Galaxy",
         "productId": "EP0222-CUSA02586_00-REBELGALAXY00000",
         "releaseDate": "2016-01-25T23:00:00Z",
-        "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 18",
-          "descriptors": [
-            {
-              "description": "Glücksspiel",
-              "name": "PEGI_GAMBLING",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/gambling.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/gambling.png"
-            },
-            {
-              "description": "In-Game Purchases",
-              "name": "PEGI_IN_GAME_PURCHASES",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/ingamepurchases.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/ingamepurchases.png"
-            },
-            {
-              "description": "Vulgärsprache",
-              "name": "PEGI_LANGUAGE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
-            },
-            {
-              "description": "Gewalt",
-              "name": "PEGI_VIOLENCE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_18",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
-        },
-        "conceptId": 209441,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/209441",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "UNIQUE",
-          "ADVENTURE",
-          "ACTION"
-        ],
-        "imageUrl": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
-        "name": "Red Dead Redemption 2",
-        "nameEn": "Red Dead Redemption 2",
-        "productId": "EP1004-CUSA08519_00-REDEMPTIONFULL02",
-        "releaseDate": "2018-10-25T22:00:00Z",
         "streamingSupported": false
       },
       {
@@ -11385,7 +11423,7 @@
         "conceptId": 10001348,
         "conceptUrl": "https://store.playstation.com/de-at/concept/10001348",
         "device": [
-          "PS5"
+          "PS4"
         ],
         "genre": [
           "ROLE_PLAYING_GAMES"
@@ -11393,9 +11431,9 @@
         "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/1813/FHhoyE3vgSQ9MZqIlxK8XMT9.png",
         "name": "Roguebook",
         "nameEn": "Roguebook",
-        "productId": "EP4008-PPSA02076_00-RBK0000000000000",
+        "productId": "EP4008-CUSA24281_00-RBK0000000000000",
         "releaseDate": "2022-02-24T09:00:00Z",
-        "streamingSupported": true
+        "streamingSupported": false
       },
       {
         "ageRating": {
@@ -12956,7 +12994,7 @@
   },
   {
     "catalogKey": "T",
-    "count": 66,
+    "count": 65,
     "games": [
       {
         "ageRating": {
@@ -13236,37 +13274,6 @@
         "productId": "EP0748-CUSA13643_00-TETRISEFFECT0000",
         "releaseDate": "2018-11-08T23:00:00Z",
         "streamingSupported": false
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 16",
-          "descriptors": [
-            {
-              "description": "Diskriminierende Sprache",
-              "name": "PEGI_DISCRIMINATORY_LANGUAGE"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_16",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
-        },
-        "conceptId": 10007988,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10007988",
-        "device": [
-          "PS4",
-          "PS5"
-        ],
-        "genre": [
-          "ACTION"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1718/da9d5ae60787d113afe56a44c1a13c03a89e628d60ab7e2e.png",
-        "name": "Thank Goodness You're Here!",
-        "nameEn": "Thank Goodness You're Here!",
-        "productId": "EP3825-PPSA15434_00-0201844545004247",
-        "releaseDate": "2024-08-01T16:00:00Z",
-        "streamingSupported": true
       },
       {
         "ageRating": {
@@ -14196,39 +14203,6 @@
       {
         "ageRating": {
           "authority": "PEGI",
-          "description": "PEGI 12",
-          "descriptors": [
-            {
-              "description": "Vulgärsprache",
-              "name": "PEGI_LANGUAGE",
-              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
-              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_12",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/12.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/12.png"
-        },
-        "conceptId": 10004172,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/10004172",
-        "device": [
-          "PS5"
-        ],
-        "genre": [
-          "PUZZLE",
-          "ADVENTURE"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2421/14712498105d05ea2d9ad3cd4d66f55a83b66e9ce3b84bc2.png",
-        "name": "The Talos Principle 2",
-        "nameEn": "The Talos Principle 2",
-        "productId": "EP3643-PPSA05888_00-1760628099831063",
-        "releaseDate": "2023-11-02T16:00:00Z",
-        "streamingSupported": true
-      },
-      {
-        "ageRating": {
-          "authority": "PEGI",
           "description": "PEGI 16",
           "descriptors": [
             {
@@ -14951,6 +14925,44 @@
         "productId": "EP0001-CUSA09605_00-TRANSFERENCE0000",
         "releaseDate": "2018-09-17T22:00:00Z",
         "streamingSupported": false
+      },
+      {
+        "ageRating": {
+          "authority": "PEGI",
+          "description": "PEGI 18",
+          "descriptors": [
+            {
+              "description": "Vulgärsprache",
+              "name": "PEGI_LANGUAGE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/language.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/language.png"
+            },
+            {
+              "description": "Gewalt",
+              "name": "PEGI_VIOLENCE",
+              "url": "https://image.api.playstation.com/grc/images/descriptors/hd/pegi/violence.png",
+              "url4k": "https://image.api.playstation.com/grc/images/descriptors/4k/pegi/violence.png"
+            }
+          ],
+          "interactiveElements": [],
+          "name": "PEGI_18",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/18.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/18.png"
+        },
+        "conceptId": 10007968,
+        "conceptUrl": "https://store.playstation.com/de-at/concept/10007968",
+        "device": [
+          "PS5"
+        ],
+        "genre": [
+          "SHOOTER"
+        ],
+        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2710/1c5dddf0d4c21ee17b1595b02d4aaf03840a2df70ef80f63.png",
+        "name": "Trepang2",
+        "nameEn": "Trepang2",
+        "productId": "EP4064-PPSA15349_00-TREPANG200000000",
+        "releaseDate": "2023-10-01T22:00:00Z",
+        "streamingSupported": true
       },
       {
         "ageRating": {
@@ -16773,40 +16785,8 @@
   },
   {
     "catalogKey": "Y",
-    "count": 4,
+    "count": 3,
     "games": [
-      {
-        "ageRating": {
-          "authority": "PEGI",
-          "description": "PEGI 16",
-          "descriptors": [
-            {
-              "description": "Intensive Gewalt",
-              "name": "PEGI_STRONG_VIOLENCE"
-            }
-          ],
-          "interactiveElements": [],
-          "name": "PEGI_16",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/16.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/16.png"
-        },
-        "conceptId": 235411,
-        "conceptUrl": "https://store.playstation.com/de-at/concept/235411",
-        "device": [
-          "PS4"
-        ],
-        "genre": [
-          "ACTION",
-          "SHOOTER",
-          "STRATEGY"
-        ],
-        "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1914/WLJycKW8kM0r1Tvlkmev0LIr.png",
-        "name": "Yet Another Zombie Defense HD",
-        "nameEn": "Yet Another Zombie Defense HD",
-        "productId": "EP2250-CUSA18368_00-YAZDHD0000000000",
-        "releaseDate": "2021-03-19T17:00:00Z",
-        "streamingSupported": false
-      },
       {
         "ageRating": {
           "authority": "PEGI",
