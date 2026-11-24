@@ -112,17 +112,17 @@
       {
         "ageRating": {
           "authority": "PEGI",
-          "description": "PEGI 7",
+          "description": "PEGI 12",
           "descriptors": [
             {
-              "description": "Gemäßigte Gewalt",
-              "name": "PEGI_MILD_VIOLENCE"
+              "description": "Moderate Gewalt",
+              "name": "PEGI_MODERATE_VIOLENCE"
             }
           ],
           "interactiveElements": [],
-          "name": "PEGI_7",
-          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/7.png",
-          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/7.png"
+          "name": "PEGI_12",
+          "url": "https://image.api.playstation.com/grc/images/ratings/hd/pegi/12.png",
+          "url4k": "https://image.api.playstation.com/grc/images/ratings/4k/pegi/12.png"
         },
         "conceptId": 10012399,
         "conceptUrl": "https://store.playstation.com/de-at/concept/10012399",
